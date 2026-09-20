@@ -1,0 +1,5 @@
+order_id,category,amount
+A1,electronics,120.50
+A2,electronics,75.25
+A3,home,40.00
+A4,invalid,notanumber
